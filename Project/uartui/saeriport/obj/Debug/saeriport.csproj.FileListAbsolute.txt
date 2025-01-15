@@ -1,0 +1,5 @@
+C:\Users\Salih\Documents\SharpDevelop Projects\saeriport\saeriport\bin\Debug\saeriport.exe
+C:\Users\Salih\Documents\SharpDevelop Projects\saeriport\saeriport\bin\Debug\saeriport.pdb
+C:\Users\Salih\Documents\SharpDevelop Projects\saeriport\saeriport\obj\Debug\saeriport.csprojResolveAssemblyReference.cache
+C:\Users\Salih\Documents\SharpDevelop Projects\saeriport\saeriport\obj\Debug\saeriport.exe
+C:\Users\Salih\Documents\SharpDevelop Projects\saeriport\saeriport\obj\Debug\saeriport.pdb

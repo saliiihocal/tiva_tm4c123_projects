@@ -1,0 +1,5 @@
+C:\Users\Salih\Documents\SharpDevelop Projects\saeriport\saeriport\bin\Debug\uartui.exe
+C:\Users\Salih\Documents\SharpDevelop Projects\saeriport\saeriport\bin\Debug\uartui.pdb
+C:\Users\Salih\Documents\SharpDevelop Projects\saeriport\saeriport\obj\Debug\uartui.csprojResolveAssemblyReference.cache
+C:\Users\Salih\Documents\SharpDevelop Projects\saeriport\saeriport\obj\Debug\uartui.exe
+C:\Users\Salih\Documents\SharpDevelop Projects\saeriport\saeriport\obj\Debug\uartui.pdb
